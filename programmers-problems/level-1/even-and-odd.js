@@ -1,5 +1,6 @@
 /*
 Problem Link : https://school.programmers.co.kr/learn/courses/30/lessons/12937#
+정답률 87%
 <문제>
 쩍수와 홀수
 

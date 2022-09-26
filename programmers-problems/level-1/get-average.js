@@ -1,5 +1,6 @@
 /*
 Problem Link : https://school.programmers.co.kr/learn/courses/30/lessons/12944
+정답률 86%
 <문제>
 평균 구하기
 
